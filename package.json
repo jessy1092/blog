@@ -71,7 +71,7 @@
     "express": "^4.14.0",
     "extract-text-webpack-plugin": "^1.0.1",
     "file-loader": "^0.9.0",
-    "html-webpack-plugin": "^2.24.1",
+    "html-webpack-plugin": "^2.25.0",
     "jest": "^17.0.3",
     "postcss-cssnext": "^2.8.0",
     "postcss-import": "^8.2.0",
@@ -89,9 +89,9 @@
     "svg-react-loader": "^0.3.7",
     "svgo-loader": "^1.1.2",
     "url-loader": "^0.5.7",
-    "webpack": "^1.13.3",
-    "webpack-dev-middleware": "^1.8.4",
-    "webpack-hot-middleware": "^2.13.2"
+    "webpack": "^1.14.0",
+    "webpack-dev-middleware": "^1.9.0",
+    "webpack-hot-middleware": "^2.14.0"
   },
   "jest": {
     "setupFiles": [
