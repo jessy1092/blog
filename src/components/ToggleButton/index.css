@@ -1,0 +1,14 @@
+
+.button {
+	background: #999;
+	padding: 4px 10px;
+	border-radius: 5px;
+	border: none;
+	color: #DDD;
+}
+
+.button-reverse {
+	composes: button;
+	background: #DDD;
+	color: #999;
+}
