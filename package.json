@@ -1,24 +1,23 @@
 {
   "name": "blog",
-  "description": "25sprout web starter with React",
+  "description": "The personal blog. Use react, es6, redux, webpack",
   "version": "0.1.0",
   "keywords": [
-    "react",
-    "25sprout",
-    "starter"
+		"blog",
+		"Lee"
   ],
   "contributor": [
     {
-      "name": "25sprout Front-End Team",
-      "email": "hey@25sprout.com"
+      "name": "Lee",
+      "email": "jessy1092@gmail.com"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "ssh://git@nas25lol.myqnapcloud.com:12222/frontend/react-starter.git"
+    "url": "git@github.com:jessy1092/blog.git"
   },
   "bugs": {
-    "url": "http://nas25lol.myqnapcloud.com:10088/frontend/react-starter/issues"
+    "url": "https://github.com/jessy1092/blog/issues"
   },
   "license": "MIT",
   "scripts": {
